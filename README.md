@@ -8,7 +8,7 @@ Data Preprocessing: Cleaned and analyzed the data using Pandas and NumPy.
 
 Model Training: Split the data into training and testing sets, and trained a Logistic Regression model using Scikit-Learn.
 
-Accuracy: Achieved an impressive accuracy of XX% on the training data and XX% on the test data!
+Accuracy: Achieved an impressive accuracy of XX% on the training data and 73% on the test data!
 
 Prediction: The model can now take real-time input and predict whether the object is a Rock or a Mine.
 
